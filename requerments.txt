@@ -1,0 +1,12 @@
+aiogram
+Pillow
+comtypes
+peewee
+aio-peewee
+moviepy
+aioify
+pydub
+
+xlrd==1.2.0
+XlsxWriter
+pandas
